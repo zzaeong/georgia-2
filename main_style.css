@@ -29,14 +29,16 @@
     font-size:50px;
     margin-left:15px;
 }
-.login > a{
+.login{
     margin-top:-40px;
-    flex:1;
+    flex: 1;
+}
+.login>a{
     font-size:25px;
     font-weight:bold;
     text-align:center;
     cursor:pointer;
-    color:rgb(255, 255, 255);
+    color#fff
 }
 .intro2{
     width:100%;
